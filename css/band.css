@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Stoke:300,400");
+* {
+    box-sizing: border-box;
+    font-family: Stoke;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+} 
+.nav ul {
+    margin: 0;
+}
+.main-header {
+    background-color: rgba(84, 62, 161, 0.2); 
+    background-image: url("img\goodnight.jpg"); 
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-bottom: 30px;
+}
